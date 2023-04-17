@@ -1,1 +1,2 @@
-*.rcc binary !text
+*.rcc binary linguist-generated=true
+* binary linguist-generated=true
