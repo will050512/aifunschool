@@ -1,0 +1,3 @@
+defaults:
+  - ext: rcc
+    mime_type: text/plain
